@@ -6,7 +6,9 @@ Everybody wants to be better at something, but not everybody knows how to develo
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+Personas and Scenerios: We created hypothetical characters that represented our target audience, their needs, and preferences.
+
+Competitive Analysis: We looked at potential competitors to our app. We studied our competitor's strengths, weaknesses, and target demographics.
 
 ## Findings
 
