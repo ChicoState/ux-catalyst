@@ -1,2 +1,3 @@
 # Sketches
-![catalyst_sketch](https://github.com/ChicoState/ux-catalyst/assets/157555015/45a951b6-b230-42c1-8aa4-85cd445c1b94)
+
+![catalyst_sketchtyped](https://github.com/MikeD76/ux-catalyst/assets/157555015/c36beda5-b366-490a-a7a0-673b1ba7aaa7)
