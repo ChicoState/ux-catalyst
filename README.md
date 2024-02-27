@@ -7,9 +7,8 @@
 ## UX Team Members
 
 * **[Darrian McAllister](https://github.com/ChicoState/ux-personal-portfolio-DarrianMC)** - !!!List of Person A's primary contributions!!!
-* **[Dominick Duran](!!!URL to Person B's published portfolio!!)** - !!!List of Person B's primary contributions!!!
 * **[Michael Davis](https://github.com/ChicoState/ux-personal-portfolio-MikeD76)** - !!!List of Person C's primary contributions!!!
-
+* **[Dominick Duran](https://github.com/ChicoState/ux-personal-portfolio-daduran1968)** - !!!List of Person B's primary contributions!!!
 
 # User-Centered Design Artifacts
  
