@@ -10,6 +10,7 @@
 * **[Dominick Duran](!!!URL to Person B's published portfolio!!)** - !!!List of Person B's primary contributions!!!
 * **[Michael Davis](https://github.com/ChicoState/ux-personal-portfolio-MikeD76)** - !!!List of Person C's primary contributions!!!
 
+
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
