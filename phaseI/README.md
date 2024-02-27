@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Everybody wants to be better at something, but not everybody knows how to develop reasonable goals and identify stepping stones in order to achieve them. Often times we need encouragement and guidance but don't have a mentor that can tailor their experience to our needs. Catalyst is a platform meant to aid people on their personal growth journey by helping the user identify areas of personal growth, develop better habits, set achievable goals, coach and encourage to help achieve them, provide tips and tricks to making their learning and growth experience more manageable. It's not a self help book in the sense that people have to figure it out on their own, it's a platform that helps people get creative and motivated while they are trying to help themselves.
 
 ## Methods
 
