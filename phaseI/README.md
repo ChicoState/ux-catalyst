@@ -24,9 +24,17 @@ Heuristic Evaluation:
 
 + Visibility of System Status (8/10)
 
+Our team members agreed that the settings' visibility wasn't immediately apparent.
+Once we located them, we found that manipulating the settings appeared to be straightforward and uncomplicated.
+
 + Match between system and the real world (7/10)
 
+Our team found it difficult initial to navigate the application. The learning curve associated with navigation was found to be steep.
+
 + User control and freedom (2/10)
+
+Our team determined that the app's design and functionality were fixed and the app did not include any options for customization to tailor it to individual preferences. for Example we could not find any options to prevent some of the unwanted pop-ups from interrupting our
+user experience within the app.
 
 + Consistency and standards (9/10)
 
