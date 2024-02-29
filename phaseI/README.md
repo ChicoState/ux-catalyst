@@ -63,7 +63,7 @@ Our competitor provided clear instructions in order to allow users to complete t
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From the findings and research we have conducted, we have found significant insights into most personal growth apps on the market today. Within most of the competitor's applications not all functions are available to users when first starting the app due to paid subscriptions, is not customizable to the user's lifestyle, and there is a learning curve when first using competitor's apps. So from these findings, we can see that there is a struggle for the user's compatibility with the app because they cannot adapt it completely to their lifestyle. Some recommendations that can shape future work from these insights are allowing the users the full range of functionality of the app but using an ad-supported model to generate revenue without stringing along the user, allowing the user to change aspects of steps or information given from the app to tailor to the user's lifestyle, And a simple UI with an easy workflow to follow to overcome the learning curve from most personal growth applications. 
 
 ## Caveats
 
