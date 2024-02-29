@@ -39,17 +39,27 @@ would typically expect from a fitness or self-help application.
 
 + Error prevention (6/10)
 
-
+We found the app to be lacking in its error prevention. It was great for checking for syntax related errors, for example checking for letter when entering weight. But our app lacked in checking for errors that were symantic in nature demontrated by ists lack of any checks for its calorie count for its meal plans. The user could enter an absurd amount of calories.
 
 + Recognition rather than recall (9/10)
 
+We gave our user a high score in the category "Recognition Rather Than Recall". Our competitor demostrated this by having all relevant present on most pages.
+
 + Flexibility and efficiency of use (6/10)
+
+Our competitor had many methods that allowed users to navigate the app efficiently. The app had many shortcuts, but there were learning curves toward recognizing and utilizing them.
 
 + Aesthetic and minimalist design (2/10)
 
+Our competitor demonstrated great weakness in this category. It's interface appeared to be  chaotic and crowded, and it lacked organization. The main page however, exhibited aesthetically pleasing and minimalist design principles.
+
 + Help users recognize, diagnose, and recover from errors (3/10)
 
+Our competitor, as stated in the error prevention portion of the analysis, dislayed weakness with repect to recognizing certain semantic based errors. In summary, our competitor seemed to have issues with recognizing errors
+
 + Help and documentation (9/10)
+
+Our competitor provided clear instructions in order to allow users to complete tasks. Our competitors presented these in the form of visual aids such as pictures and diagrams.
 
 ## Conclusions
 
