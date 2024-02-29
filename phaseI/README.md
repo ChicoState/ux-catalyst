@@ -6,13 +6,30 @@ Everybody wants to be better at something, but not everybody knows how to develo
 
 ## Methods
 
-Personas and Scenerios: We created hypothetical characters that represented our target audience, their needs, and preferences.
+Heuristic Evaluation: We evaluated the greatest competitor to our product and gave them scores based on a set of defined criteria
 
 Competitive Analysis: We looked at potential competitors to our app. We studied our competitor's strengths, weaknesses, and target demographics.
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Competiive Analysis:
+
++ We found that our competitors generally had applications that were easy to use.
+
++ We found that one of the places that competitors were weak and presented an opprotunity for our product was a lack of resources and customization 
+
++ We found that features were limited for non-paid tier
+
+Heuristic Evaluation:
+
++ Visibility of System Status (8/10)
+
++ Match between system and the real world (7/10)
+
++ User control and freedom (2/10)
+
++ 
+
 
 ## Conclusions
 
@@ -20,4 +37,6 @@ Competitive Analysis: We looked at potential competitors to our app. We studied 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
++ We did not have access to the paid version of any of these app
+
++ Many memebers of the group had limited access to app that were exclusive to Android or Apple
