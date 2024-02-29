@@ -14,11 +14,7 @@ Competitive Analysis: We looked at potential competitors to our app. We studied 
 
 Competiive Analysis:
 
-+ We found that our competitors generally had applications that were easy to use.
-
-+ We found that one of the places that competitors were weak and presented an opprotunity for our product was a lack of resources and customization 
-
-+ We found that features were limited for non-paid tier
++ We found that our competitors generally had applications that were easy to use. We found that one of the places that our competitors were weak and presented an opprotunity for our product was a lack of resources and customization. Another weakness we found was that features were limited for non-paid tier
 
 Heuristic Evaluation:
 
@@ -38,7 +34,12 @@ user experience within the app.
 
 + Consistency and standards (9/10)
 
+The app provides users with the features and functionalities they
+would typically expect from a fitness or self-help application.
+
 + Error prevention (6/10)
+
+
 
 + Recognition rather than recall (9/10)
 
