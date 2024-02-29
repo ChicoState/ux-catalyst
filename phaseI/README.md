@@ -28,8 +28,19 @@ Heuristic Evaluation:
 
 + User control and freedom (2/10)
 
-+ 
++ Consistency and standards (9/10)
 
++ Error prevention (6/10)
+
++ Recognition rather than recall (9/10)
+
++ Flexibility and efficiency of use (6/10)
+
++ Aesthetic and minimalist design (2/10)
+
++ Help users recognize, diagnose, and recover from errors (3/10)
+
++ Help and documentation (9/10)
 
 ## Conclusions
 
