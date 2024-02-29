@@ -23,10 +23,11 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Began looking at competitors for personal growth applications
+* Created personas and scenarios to help focus on our audience
+* Competitors are mostly paid services
+* Learning curve to the competitor's apps
+* Competitor's applications are not customizable to user's lifestyle
 
 [Full phase I report](phaseI/)
 
