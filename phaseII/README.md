@@ -11,7 +11,7 @@ For us to further develop our application and discover new insights, we had a co
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The data provided to do the cognitive walkthrough was the initial design of the wireframes for Catalyst. What we found was that users consider the forum the main part of the app when it is simply an addition to it with other users being able to help one another. It was discovered that we underdeveloped the wireframes by showing just the main buttons and parts of the UI. We did not follow through to the end with each function, confusing users when looking at the main functions and what comes next. Many of the users did not know what happens after they click the add goal button. Some of the cognitive walkthroughs mentioned that they did not know if they were logged in or had an account was mentioned throughout many of the cognitive walkthroughs. We also found that the wireframes do not specify whether the user successfully added a goal, making it hard for the users to understand if they are using the application correct.
 
 ## Conclusions
 
