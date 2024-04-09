@@ -35,10 +35,10 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Created wireframes that shows how Catalyst works
+* Cognitive walkthrough methods using wireframes and personas
+* Findings of the cognitive walkthough
+* Improvements on application based on the findings
 
 [Full phase II report](phaseII/)
 
