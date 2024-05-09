@@ -3,6 +3,7 @@
 ## Introduction
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+For Task 1 our user played the role of an individual who wanted to lose 30 pounds in 3 months. We wanted the user to add this to the goals section of the app. We created this task in order to test the main functionality of the app, which is to add goals. For Task 2 we wanted the user to share their flexibility routine to the forum. This task was important because it served as a test as to whether or not the concept of dragging goals to a forum was intuitive and workable. In Task 3 the UX team wanted the user to get help from the forum to change an existing goal. For Task 4, we wanted the user to edit an existing exercise. Finally, in Task 5, we wanted the user to sign out of Catalyst.
 
 ## Methods
 
