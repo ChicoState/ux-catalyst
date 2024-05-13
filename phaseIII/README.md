@@ -22,6 +22,14 @@ Overall, this interval of work within the Catalyst project aims to refine and va
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
+The research methods employed to gain new insights for the Catalyst project primarily involved a combination of wireframing, prototyping using Figma, and conducting user walkthrough studies. Each method served a specific purpose in the research process, aimed at informing the design and functionality of the app to better meet user needs and expectations.
+
+In our Catalyst project, wireframing played a pivotal role as the initial step in our design process. By creating low-fidelity representations of the app's interface, we established a structural blueprint that outlined the layout and core functionality without incorporating visual design elements. This approach enabled rapid iteration, allowing us to explore different layout ideas, assess navigation flow, and ensure alignment with user requirements before delving into detailed design work. Importantly, wireframing laid the essential groundwork toward building the prototype, guiding its development in Figma. Through wireframing, we could concentrate on refining the fundamental structure of the app, ensuring that our design decisions were grounded in user needs and expectations from the outset, ultimately setting the stage for the development of an intuitive and user-centered product.
+
+During the prototype phase of our Catalyst project, we transitioned from wireframing to building interactive prototypes using Figma, marking a crucial step in refining the user experience. With the foundation laid by wireframes, we could now flesh out the app's functionality and design in greater detail. Prototyping allowed us to transform static wireframes into dynamic representations of the app, complete with clickable elements and simulated interactions. This transition from wireframes to prototypes enabled us to validate and iterate on design concepts more effectively.
+
+During the user walkthrough phase of our Catalyst project, we organized sessions in a reserved room at Marium Library, providing a conducive environment for participants to engage with our prototypes. Utilizing Figma, participants conducted the walkthrough on laptops, interacting with the prototypes in a realistic digital environment. This setup allowed us to closely observe participants as they navigated through the app, providing valuable insights into usability, navigation flow, and overall user experience. By guiding participants through predefined tasks and scenarios, we gained firsthand feedback on the app's functionality and design, identifying areas for improvement and validation.
+
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
