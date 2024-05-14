@@ -1,6 +1,5 @@
 # Catalyst
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
 Catalyst is a web application that helps users get better at a particular skill they are interested in. The application utilizes a Large Language Model (LLM) to come up with ideas on things the user can do. These tasks and skills can later be used as reminders and checklists for the user to keep track of their day to day progress.
 
 ## UX Team Members
