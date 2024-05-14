@@ -32,6 +32,24 @@ During the user walkthrough phase of our Catalyst project, we organized sessions
 
 !!! For each research method, detail each of the findings point-by-point to clarify discoveries of users' needs !!!
 
+Our user walkthrough studies revealed several key insights into the usability and functionality of Catalyst. By analyzing participant experiences and task completion metrics, we gained valuable perspectives on areas of strength and opportunities for improvement within the app.
+
+Participants generally succeeded in adding goals, with varying completion times reflecting differences in navigation fluency. For instance, participants like p01, a tech-savvy college student, grasped the process quickly, achieving a high success rate and rating. In contrast, participants with less experience, such as p02, encountered minor challenges but still completed the task efficiently. These findings suggest that while Catalyst's goal-setting feature is generally intuitive, there may be room for further streamlining to accommodate users with diverse levels of familiarity with self-help apps.
+
+Task 2, which involved utilizing drag functionality to share content to the forum, presented notable challenges across participants. Success rates varied, with some, like p04, encountering only minor difficulties, while others, like p05, struggled to grasp the drag feature, resulting in longer completion times. Notably, participant feedback highlighted the need for clearer guidance on drag functionality, as evidenced by comments from p01 and p03. These findings underscore the importance of refining drag functionality to enhance user understanding and satisfaction.
+
+Sharing to the forum, Task 3, was relatively straightforward for participants already familiar with the forum interface, such as p02. However, navigation issues were reported by some, indicating a need for improved clarity in app navigation. Participants like p03 highlighted the importance of intuitive pathways to streamline user interactions and minimize friction during task completion.
+
+Task 4, editing exercises, demonstrated varied difficulty levels, with navigation challenges affecting completion times for some participants. This suggests the necessity of refining navigation pathways within the app to ensure seamless user experiences. Additionally, glitches experienced by participants like p06 underscored potential technical issues that may impact user satisfaction.
+
+Signing out, Task 5, was generally straightforward, yet glitches experienced by one participant highlighted potential technical issues that may impact user experiences. These findings emphasize the importance of addressing technical glitches promptly to maintain user satisfaction and trust.
+
+Task 1: Avg-  SD-
+Task 2: Avg-  SD-
+Task 3: Avg-  SD-
+Task 4: Avg-  SD-
+Task 5: Avg-  SD-
+
 
 ## Conclusions
 
