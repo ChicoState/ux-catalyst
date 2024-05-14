@@ -45,9 +45,13 @@ Task 4, editing exercises, demonstrated varied difficulty levels, with navigatio
 Signing out, Task 5, was generally straightforward, yet glitches experienced by one participant highlighted potential technical issues that may impact user experiences. These findings emphasize the importance of addressing technical glitches promptly to maintain user satisfaction and trust.
 
 Task 1: Avg-  SD-
+
 Task 2: Avg-  SD-
+
 Task 3: Avg-  SD-
+
 Task 4: Avg-  SD-
+
 Task 5: Avg-  SD-
 
 
