@@ -48,7 +48,7 @@ Task 2: Avg- 2.43  SD- .4955    Success #- 6  Success Rate- 85.7%
 
 Task 3: Avg- 4.14  SD- 1.076     Success #- 7  Success Rate- 100%
 
-Task 4: Avg-   SD- .57   Success #- 7  Success Rate- 100%
+Task 4: Avg- 3  SD- .57   Success #- 7  Success Rate- 100%
 
 Task 5: Avg- 4.28  SD- .76   Success #- 7  Success Rate- 100%
 
