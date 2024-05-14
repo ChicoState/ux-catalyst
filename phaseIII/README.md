@@ -1,8 +1,7 @@
 # Phase III: Prototypes and User Testing
 
-## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+## Introduction
 
 Within this interval of work, the focus was on evaluating various aspects of the app's functionality and usability through a series of tasks performed by users. Each task sought to target a specific feature or function of the app, intending to assess its effectiveness and user-friendliness.
 
@@ -17,6 +16,7 @@ Task 4 revolved around the editing of existing exercises, indicating a focus on 
 Finally, Task 5 involved the basic functionality of user account management, requiring users to sign out of the Catalyst app. While seemingly straightforward, this task ensured that essential user actions, such as logging out, were seamlessly integrated into the app's interface.
 
 Overall, this interval of work within the Catalyst project aims to refine and validate the app's features, ensuring that it effectively addresses the diverse needs of its user base in pursuing their health and fitness goals. Through iterative testing and feedback, the team can iteratively improve the app's functionality and user experience, ultimately enhancing its value and utility to users.
+
 
 ## Methods
 
