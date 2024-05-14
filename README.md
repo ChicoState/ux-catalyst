@@ -13,7 +13,7 @@ Catalyst is a web application that helps users get better at a particular skill 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype]<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+* [Prototype](https://www.figma.com/design/sByb7olleDtmYCVb61Qb7S/Wireframes---Catalyst?node-id=0%3A1&t=ZYSKqj662RY4y5FI-1)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
