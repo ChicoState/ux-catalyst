@@ -30,8 +30,6 @@ During the user walkthrough phase of our Catalyst project, we organized sessions
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify discoveries of users' needs !!!
-
 Our user walkthrough studies revealed several key insights into the usability and functionality of Catalyst. By analyzing participant experiences and task completion metrics, we gained valuable perspectives on areas of strength and opportunities for improvement within the app.
 
 Participants generally succeeded in adding goals, with varying completion times reflecting differences in navigation fluency. For instance, participants like p01, a tech-savvy college student, grasped the process quickly, achieving a high success rate and rating. In contrast, participants with less experience, such as p02, encountered minor challenges but still completed the task efficiently. These findings suggest that while Catalyst's goal-setting feature is generally intuitive, there may be room for further streamlining to accommodate users with diverse levels of familiarity with self-help apps.
