@@ -1,8 +1,7 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Catalyst
 
 !!!Brief introduction to the project and the problem it is intended to solve!!!
+Catalyst is a web application that helps users get better at a particular skill they are interested in. The application utilizes a Large Language Model (LLM) to come up with ideas on things the user can do. These tasks and skills can later be used as reminders and checklists for the user to keep track of their day to day progress.
 
 ## UX Team Members
 
@@ -11,8 +10,6 @@
 * **[Dominick Duran](https://github.com/ChicoState/ux-personal-portfolio-daduran1968)** - Research, creative thinking, report
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
