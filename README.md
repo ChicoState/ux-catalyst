@@ -13,7 +13,7 @@ Catalyst is a web application that helps users get better at a particular skill 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](Browk UI KIT (Community).pdf)
+* [Prototype](<a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
