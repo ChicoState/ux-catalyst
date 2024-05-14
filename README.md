@@ -46,9 +46,9 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Prototyping phase transitioned from wireframing to interactive prototypes, deepening understanding of user needs.
+* User walkthrough studies revealed usability insights and areas for improvement in Catalyst.
+* Tasks highlighted effectiveness of goal-setting but identified challenges with drag functionality and navigation pathways.
+* Design recommendations focused on enhancing clarity and usability based on user feedback.
 
 [Full phase III report](phaseIII/)
